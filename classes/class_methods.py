@@ -1,5 +1,5 @@
 class Gamer:
-    def def __init__(self, nickname, age, level, points):
+    def  __init__(self, nickname, age, level, points):
       self.name = name
       self.age = age
       self.level = level
