@@ -14,4 +14,5 @@ data = response.json()
 earthquake_list = data['features']
 count = 0
 for i in earthquake_list:
-    print()
+    print(type(i))
+    print(i)
